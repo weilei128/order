@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                   卫氏 家常菜
+                   汇天 家常菜
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
